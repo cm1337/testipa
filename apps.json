@@ -1,0 +1,23 @@
+{
+  "name": "My Custom Source",
+  "identifier": "com.custom.source",
+  "subtitle": "Personal Sideloading Apps",
+  "iconURL": "https://raw.githubusercontent.com/hugeBlack/GetMoreRam/main/icon.png",
+  "website": "https://github.com/hugeBlack/GetMoreRam",
+  "apps": [
+    {
+      "name": "GetMoreRam",
+      "bundleIdentifier": "com.hugeblack.GetMoreRam",
+      "developerName": "hugeBlack",
+      "subtitle": "Enable Increased Memory Limit entitlement for sideloaded apps",
+      "localizedDescription": "GetMoreRam uses AltSign/StosSign to apply the Increased Memory Limit entitlement directly to signed iOS App IDs without needing Xcode.",
+      "iconURL": "https://raw.githubusercontent.com/hugeBlack/GetMoreRam/main/icon.png",
+      "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+      "version": "1.0.0",
+      "versionDate": "2024-01-01T00:00:00Z",
+      "versionDescription": "Nightly Build",
+      "tintColor": "#4A90E2",
+      "size": 5242880
+    }
+  ]
+}

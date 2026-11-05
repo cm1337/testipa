@@ -1,0 +1,22 @@
+{
+  "name": "iRam",
+  "identifier": "com.custom.source",
+  "subtitle": "Personal Sideloading Apps",
+  "iconURL": "https://raw.githubusercontent.com/hugeBlack/GetMoreRam/main/icon.png",
+  "website": "https://github.com/hugeBlack/GetMoreRam",
+  "apps": [
+    {
+      "name": "iRAM+",
+      "bundleIdentifier": "novadev.iram-plus",
+      "developerName": "NovaDev",
+      "subtitle": "iRAM+ for iOS",
+      "localizedDescription": "iRAM+ is an iOS application compatible with iPhone and iPad running iOS 16.0 or later.",
+      "iconURL": "https://raw.githubusercontent.com/hugeBlack/GetMoreRam/main/icon.png",
+      "downloadURL": "https://github.com/NovaDev404/iRAM-Plus/releases/download/v1.3.1/iRAM-Plus.ipa",
+      "version": "1.3.1",
+      "versionDate": "2026-11-05T00:00:00Z",
+      "versionDescription": "Build 7",
+      "size": 4562979
+    }
+  ]
+}

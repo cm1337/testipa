@@ -7,7 +7,7 @@
   "apps": [
     {
       "name": "GetMoreRam",
-      "bundleIdentifier": "com.hugeblack.GetMoreRam",
+      "bundleIdentifier": "com.aigch.getMoreRam",
       "developerName": "hugeBlack",
       "subtitle": "Enable Increased Memory Limit entitlement for sideloaded apps",
       "localizedDescription": "GetMoreRam uses AltSign/StosSign to apply the Increased Memory Limit entitlement directly to signed iOS App IDs without needing Xcode.",
